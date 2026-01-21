@@ -14,11 +14,11 @@
 [![GitHub marveedesigns](https://img.shields.io/github/followers/marveedesigns?label=follow&style=social)](https://github.com/marveedesigns)&nbsp;
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I’m a Technical Consultant at Infrest Systems Limited, working on enterprise automation, backend integration, and data-driven systems.\
+💡 &nbsp; Software Engineer & Technical Consultant with experience building backend systems, enterprise automation solutions, and API-driven integrations.\
 🎓  &nbsp;I hold a B.Eng. in Mechanical Engineering from the University of Ilorin, Nigeria.\
-🌱 &nbsp;Currently learning and building with ML/AI, Python, NodeJS, Django, REST APIs, and cloud-based backend systems.\
+🌱 &nbsp;Actively building with Python, Node.js, Django, REST APIs, and cloud-based backend architectures, with growing experience in ML/AI-driven systems.\
 🎨 &nbsp;On the creative side, I design logos, motion graphics, and flyers with a focus on clean, Web3-inspired aesthetics.\
-🚀 &nbsp;My goal is to build products and systems that bridge technology, machine and design innovation.
+🚀 &nbsp;Focused on designing scalable, data-driven software solutions that bridge engineering principles with modern backend technologies.
 
 
 ### If my repository is helpful for you then [Nominate me for GitHub Star](https://stars.github.com/nominate/)
